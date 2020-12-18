@@ -1,0 +1,11 @@
+name: PulsarSystem
+version: 1.0
+author: NukerFall
+main: org.Pulsar.PulsarSystem.Main
+description: Server side pulsar system plugin
+api-version: 1.16
+depends: [Movecraft]
+commands:
+  pulsarsystem:
+    description: PulsarSystem main command
+    aliases: [ps, psystem]
